@@ -1,11 +1,14 @@
 //11. Pattern-11
 /*   
-	 E
-    D E
-   C D E
-  B C D E
- A B C D E
+   
+    *
+   ***
+  *****
+ *******
+*********
+
 */
+
 //Code:
 
 public class Que11  
