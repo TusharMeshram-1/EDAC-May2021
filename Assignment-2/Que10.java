@@ -1,10 +1,11 @@
 //10. Pattern-10
 /*   
-	 E
+     E
     D E
    C D E
   B C D E
  A B C D E
+ 
 */
 //Code:
 
